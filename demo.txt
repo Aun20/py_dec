@@ -1,0 +1,21 @@
+This is a demo file
+How to work on Git Bash
+
+On Bash
+
+cd Deskop
+cd Python_training(location of folder saved)
+dir (to get contents of the folder)\
+ls (same as above : its for Linux language)
+touch demo
+git init (initializing the folder)
+git status (will track everything in the folder. even though it will not share who made/updated the file)
+
+# git init
+git status
+git add <file_name>
+#to add all
+	git add
+git commit -m "Comment"
+git remote add origin <repo url>
+
